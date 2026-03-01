@@ -1,0 +1,20 @@
+{
+  "id": "file-upload-endpoint",
+  "started": "2026-02-22T10:41:00Z",
+  "lastUpdated": "2026-02-22T11:15:00Z",
+  "status": "complete",
+  "phase": "complete",
+  "progress": {
+    "discovery": { "answered": 5, "total": 5 },
+    "detail": { "answered": 5, "total": 5 }
+  },
+  "contextFiles": [
+    "WebApplication1/Endpoints/FileEndpoints.cs",
+    "WebApplication1/Services/IFileService.cs",
+    "WebApplication1/Services/FileService.cs",
+    "WebApplication1/Program.cs",
+    "WebApplication1.Tests/FileServiceTests.cs",
+    "WebApplication1/appsettings.json"
+  ],
+  "relatedFeatures": ["file-download-api"]
+}
